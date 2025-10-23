@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+nav { background: #333; color: #fff; padding: 10px; }
+nav a { color: #fff; margin-right: 15px; text-decoration: none; }
+main { padding: 20px; }
+#calendar { max-width: 900px; margin: 40px auto; }
+form { max-width: 400px; margin: 40px auto; background: #f9f9f9; padding: 20px; border-radius: 8px; }
+label { display: block; margin-bottom: 10px; }

@@ -1,0 +1,4 @@
+/* Tailwind base import (CDN) + custom tweaks si se requiere */
+@import url('https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css');
+
+/* Puedes agregar aquí estilos personalizados si lo deseas */
