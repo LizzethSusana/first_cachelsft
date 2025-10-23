@@ -7,6 +7,7 @@ const APP_SHELL = [
   '/first_cachelsft/',
   '/first_cachelsft/index.html',
   '/first_cachelsft/estilos.css',
+  '/first_cachelsft/tailwind.css',
   '/first_cachelsft/main.js',
   '/first_cachelsft/pages/calendar.html',
   '/first_cachelsft/pages/formulario.html'
